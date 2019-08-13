@@ -1,0 +1,9 @@
+{
+  "name": "tech50.io",
+  "version": "1.0.0",
+  "description": "tech50 website",
+  "main": "index.js",
+  "repository": "git@github.com:tech50ltd/tech50.io.git",
+  "author": "swissarmykirpan",
+  "license": "MIT"
+}
